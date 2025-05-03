@@ -4,11 +4,13 @@ Thanks to the official ursina engine website for the samples (https://www.ursina
 <b>Warning: you must have ursina engine installed to play. If you don't, install it: https://www.ursinaengine.org/installation.html</b>
 
 ## Sandbox
-Press left mouse button to break blocks, right mouse button to place. Use 1-4 number keys to pick different blocks (1-grass, 2-wood, 3-water, 4-brick).
+Press left mouse button to break blocks, right mouse button to place. Use 1-4 number keys to pick different blocks (1-grass, 2-wood, 3-water, 4-brick).<br>
+Fun fact: you can place a lot of blocks at the same position to make your game lag.
 
 ## Parkour
-Just jump from one block to another until you reach the big block with noise texture.
+Just jump from one block to another until you reach the big block with noise texture.<br>
+Fun fact: your gravity here is set to 0.5.
 
 ## Zombie Shooter
-Press left mouse button to shoot. Kill all zombies (you don't take damage).
-There's also a shooting sound.
+Press left mouse button to shoot. Kill all zombies (you don't take damage from them).<br>
+Fun fact: there's a shooting sound, because it was in the FPS sample.
