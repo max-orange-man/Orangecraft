@@ -13,4 +13,4 @@ Fun fact: your gravity here is set to 0.5.
 
 ## Zombie Shooter
 Press left mouse button to shoot. Kill all zombies (you don't take damage from them).<br>
-Fun fact: there's a shooting sound, because it was in the FPS sample.
+Fun fact: there's a shooting sound because it was in the FPS sample.
