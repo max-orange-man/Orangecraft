@@ -7,6 +7,13 @@ app = Ursina(development_mode=False)
 block_texture = "grass"
 block_hue = 80
 
+# picked block displayer
+block = Text(
+    text="Picked block: Grass",
+    position=(-.85,.45),
+    background=True
+)
+
 # voxel class
 class Voxel(Button):
     def __init__(self, position=(0,0,0)):
@@ -58,23 +65,28 @@ def input(key):
     # pick grass block [1]
     if key == "1":
         global block_texture, block_hue
+
         block_texture = "grass"
         block_hue = 80
+        block.text = "Picked block: Grass"
 
     # pick wood block [2]
     if key == "2":
         block_texture = "sky_default"
         block_hue = 25
+        block.text = "Picked block: Wood"
 
     # pick water block [3]
     if key == "3":
         block_texture = "sky_default"
         block_hue = 180
+        block.text = "Picked block: Water"
 
     # pick brick block [4]
     if key == "4":
         block_texture = "brick"
         block_hue = 0
+        block.text = "Picked block: Brick"
 
     # quit game [escape]
     if key == "escape":
