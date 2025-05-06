@@ -4,7 +4,7 @@ A simple Minecraft clone in Python made with ursina engine. It has 3 maps (in di
 
 ## Sandbox
 Press LMB to break blocks, RMB to place. Use 1-4 number keys to pick different blocks (1-grass, 2-wood, 3-water, 4-brick).<br>
-Fun fact: you can place a lot of blocks at the same position to make your game lag.<br><br>
+Fun fact: you can place a lot of blocks in one position to make your game lag very much when you look at them.<br><br>
 <img src="Screenshots/Screenshot1.png">
 
 ## Parkour
