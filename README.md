@@ -9,11 +9,11 @@ Fun fact: you can place a lot of blocks at the same position to make your game l
 
 ## Parkour
 Just jump from one block to another until you reach the big block with noise texture.<br>
-Fun fact: blocks are generated randomly.<br><br>
+Fun fact: the blocks are generated randomly.<br><br>
 <img src="Screenshots/Screenshot2.png">
 
 ## Zombie Shooter
 Press LMB to shoot. Kill all zombies.<br>
 You don’t take damage, and zombies won’t follow you if you jump or stand on a brick block.<br>
-Fun fact: there's a shooting sound.<br><br>
+Fun fact: there’s a shooting sound.<br><br>
 <img src="Screenshots/Screenshot3.png">
