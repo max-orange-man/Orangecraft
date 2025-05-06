@@ -8,7 +8,7 @@ Fun fact: you can place a lot of blocks in one position to make your game lag ve
 <img src="Screenshots/Screenshot1.png">
 
 ## Parkour
-Just jump from one block to another until you reach the big block with noise texture.<br>
+Just jump between blocks until you reach the big block with noise texture.<br>
 Fun fact: the blocks are generated randomly.<br><br>
 <img src="Screenshots/Screenshot2.png">
 
