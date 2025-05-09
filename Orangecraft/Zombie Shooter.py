@@ -85,7 +85,7 @@ class Enemy(Entity):
         self.health_bar.alpha = max(0, self.health_bar.alpha - time.dt)
 
         self.look_at_2d(player.position, "y")
-        hit_info = raycast(self.world_position + (0,1,0), self.forward, 30, ignore=(self))
+        hit_info = raycast(self.world_position + (0,1,0), self.forward, 30, ignore=(self,))
         if hit_info.entity == player:
             if dist > 2:
                 self.position += self.forward * time.dt * 5
