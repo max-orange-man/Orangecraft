@@ -10,7 +10,7 @@ Fun fact: wood and water blocks have the "sky_default" texture, same as the sky.
 <img src="Screenshots/Screenshot1.png">
 
 ## Parkour
-Just jump between blocks until you reach the big block with noise texture.<br>
+Just parkour until you reach the big block with noise texture.<br>
 Fun fact: the blocks are generated randomly.<br><br>
 <img src="Screenshots/Screenshot2.png">
 
