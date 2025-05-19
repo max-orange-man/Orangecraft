@@ -1,7 +1,7 @@
 # Orangecraft
 A simple Minecraft clone in Python made with ursina engine. It has 3 maps (in different Python files): Sandbox, Parkour and Zombie Shooter.<br>
 
-## Dependencies
+## Requirements
 <li><a href="https://www.ursinaengine.org/installation.html">ursina engine</a></li>
 
 ## Sandbox
