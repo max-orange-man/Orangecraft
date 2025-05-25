@@ -5,7 +5,7 @@ My simple Minecraft clone in Python with 3 maps (in different files): Sandbox, P
 <li><a href="https://www.ursinaengine.org/installation.html">ursina engine</a></li>
 
 ## Sandbox
-Press LMB to break blocks, RMB to place. Use 1-4 number keys to pick different blocks (1-grass, 2-wood, 3-water, 4-brick).<br>
+Press LMB to break blocks, RMB to place, 1-4 number keys to pick different blocks (1-grass, 2-wood, 3-water, 4-brick).<br>
 Fun fact: wood and water blocks have the "sky_default" texture, same as the sky.<br><br>
 <img src="Screenshots/Screenshot1.png">
 
