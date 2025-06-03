@@ -1,8 +1,8 @@
 # Orangecraft
-My simple Minecraft clone in Python with 3 maps (in different files): Sandbox, Parkour and Zombie Shooter.<br>
+Simple Minecraft clone in Python with 3 maps (in different files): Sandbox, Parkour and Zombie Shooter.<br>
 
 ## Requirements
-<li><a href="https://www.ursinaengine.org/installation.html">ursina engine</a></li>
+<li><a href="https://www.ursinaengine.org/installation.html">ursina</a></li>
 
 ## Sandbox
 Press LMB to break blocks, RMB to place, 1-4 number keys to pick different blocks (1-grass, 2-wood, 3-water, 4-brick).<br>
