@@ -1,4 +1,4 @@
-# ursinacraft
+# Ursinacraft
 Simple Minecraft clone in Python (ursina engine) with 3 maps: Sandbox, Parkour and Zombie Shooter.<br>
 
 ## Requirements
