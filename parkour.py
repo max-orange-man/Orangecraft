@@ -54,6 +54,6 @@ def input(key):
     if key == "escape":
         quit()
 
-# create the player and run the game
+# create a player and run the game
 FirstPersonController(gravity=.5)
 app.run()
